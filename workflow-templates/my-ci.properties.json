@@ -1,0 +1,13 @@
+{
+    "name": "my-ci",
+    "description": "my-ci",
+    "iconName": "random-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
